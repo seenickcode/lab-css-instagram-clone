@@ -10,6 +10,8 @@ There's a bit of starter code, so you can jump right into it.
 
 ## Exercise
 
+Hello, Daniel. Looking to connect!
+
 ## Requirements
 
 - [Fork this repo](https://guides.github.com/activities/forking/)
